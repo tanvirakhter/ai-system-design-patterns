@@ -28,3 +28,7 @@ Every pattern follows the same six sections:
 - Prompt pipeline versioning and rollout (`prompt-pipelines/`)
 - Guardrails and output validation layers (`ai-safety/`)
 - Semantic caching for LLM serving (`ai-cost/`)
+
+## License
+
+This work by Tanvir Akhter Shakib is licensed under [CC BY 4.0](LICENSE) - share and adapt freely with attribution.
