@@ -23,6 +23,12 @@ Every pattern follows the same six sections:
 5. **Failure points** - where these systems actually break in production
 6. **Related patterns** - what to read next
 
+## Reference implementations
+
+Each pattern has a minimal runnable counterpart in [`reference-implementations/`](reference-implementations/) -
+standard-library Python, deterministic, no API keys - so the architecture can be executed,
+not just read about.
+
 ## Planned
 
 - Prompt pipeline versioning and rollout (`prompt-pipelines/`)
